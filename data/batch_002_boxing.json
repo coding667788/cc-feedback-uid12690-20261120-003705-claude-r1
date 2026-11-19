@@ -1,0 +1,41 @@
+{
+  "batch_id": "B002",
+  "events": [
+    {
+      "box": "BX01",
+      "custodian": "P01",
+      "location": "LAB-A",
+      "media": [
+        "M001",
+        "M002"
+      ],
+      "seal": "SEAL-BX01-1",
+      "type": "box_seal",
+      "witness": "P03"
+    },
+    {
+      "box": "BX02",
+      "custodian": "P03",
+      "location": "LAB-B",
+      "media": [
+        "M003",
+        "M004"
+      ],
+      "seal": "SEAL-BX02-1",
+      "type": "box_seal",
+      "witness": "P05"
+    },
+    {
+      "box": "BX03",
+      "custodian": "P05",
+      "location": "LAB-C",
+      "media": [
+        "M005",
+        "M006"
+      ],
+      "seal": "SEAL-BX03-1",
+      "type": "box_seal",
+      "witness": "P01"
+    }
+  ]
+}

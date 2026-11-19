@@ -1,0 +1,20 @@
+{
+  "batch_id": "B005",
+  "events": [
+    {
+      "box": "BX02",
+      "correction": "C001",
+      "diff_kind": "wrong_generation",
+      "evidence": "盘点员误读封签，现场复核确认 BX02 仍为第 1 代 SEAL-BX02-1",
+      "fix": {
+        "set": {}
+      },
+      "signers": [
+        "P01",
+        "P04"
+      ],
+      "snapshot": "SNAP004",
+      "type": "correction"
+    }
+  ]
+}

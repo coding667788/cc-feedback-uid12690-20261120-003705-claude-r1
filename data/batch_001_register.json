@@ -1,0 +1,81 @@
+{
+  "batch_id": "B001",
+  "events": [
+    {
+      "people": [
+        {
+          "group": "G1",
+          "id": "P01",
+          "name": "张岚"
+        },
+        {
+          "group": "G1",
+          "id": "P02",
+          "name": "陈默"
+        },
+        {
+          "group": "G2",
+          "id": "P03",
+          "name": "李航"
+        },
+        {
+          "group": "G2",
+          "id": "P04",
+          "name": "赵颖"
+        },
+        {
+          "group": "G3",
+          "id": "P05",
+          "name": "王硕"
+        },
+        {
+          "group": "G3",
+          "id": "P06",
+          "name": "孙莉"
+        }
+      ],
+      "type": "register_people"
+    },
+    {
+      "media": [
+        {
+          "custodian": "P01",
+          "id": "M001",
+          "location": "LAB-A",
+          "witness": "P03"
+        },
+        {
+          "custodian": "P01",
+          "id": "M002",
+          "location": "LAB-A",
+          "witness": "P04"
+        },
+        {
+          "custodian": "P03",
+          "id": "M003",
+          "location": "LAB-B",
+          "witness": "P05"
+        },
+        {
+          "custodian": "P03",
+          "id": "M004",
+          "location": "LAB-B",
+          "witness": "P06"
+        },
+        {
+          "custodian": "P05",
+          "id": "M005",
+          "location": "LAB-C",
+          "witness": "P01"
+        },
+        {
+          "custodian": "P05",
+          "id": "M006",
+          "location": "LAB-C",
+          "witness": "P02"
+        }
+      ],
+      "type": "register_media"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "batch_id": "B004",
+  "events": [
+    {
+      "box": "BX01",
+      "generation": 1,
+      "handover": "H001",
+      "media": [
+        "M001",
+        "M002"
+      ],
+      "new_custodian": "P03",
+      "new_witness": "P05",
+      "side": "in",
+      "to_location": "LAB-B",
+      "type": "handover_confirm"
+    },
+    {
+      "box": "BX02",
+      "generation": 1,
+      "handover": "H002",
+      "media": [
+        "M003",
+        "M004"
+      ],
+      "new_custodian": "P05",
+      "new_witness": "P01",
+      "side": "out",
+      "to_location": "LAB-C",
+      "type": "handover_confirm"
+    },
+    {
+      "box": "BX03",
+      "generation": 1,
+      "handover": "H003",
+      "media": [
+        "M005",
+        "M006"
+      ],
+      "new_custodian": "P02",
+      "new_witness": "P04",
+      "side": "in",
+      "to_location": "LAB-A",
+      "type": "handover_confirm"
+    }
+  ]
+}

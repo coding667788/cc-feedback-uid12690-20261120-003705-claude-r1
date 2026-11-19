@@ -1,0 +1,15 @@
+{
+  "description": "三箱交叉移交演示场景（全部虚构，确定性生成）",
+  "order": [
+    "batch_001_register.json",
+    "batch_002_boxing.json",
+    "snap_001_lab_a_before.json",
+    "batch_003_first_confirms.json",
+    "batch_004_second_confirms.json",
+    "snap_002_lab_a_after.json",
+    "snap_003_lab_b_after.json",
+    "snap_004_lab_c_misread.json",
+    "batch_005_correction.json",
+    "snap_005_lab_c_recount.json"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "location": "LAB-A",
+  "observed": [
+    {
+      "box": "BX01",
+      "generation": 1,
+      "seal": "SEAL-BX01-1"
+    }
+  ],
+  "snapshot_id": "SNAP001"
+}
